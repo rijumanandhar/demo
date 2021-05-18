@@ -1,4 +1,4 @@
 version: 1.0.{build}
 image: Ubuntu
 install:
-  - qualiti-script.sh
+  - sh: qualiti-script.sh
