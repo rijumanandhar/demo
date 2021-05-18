@@ -3,3 +3,4 @@ image: Ubuntu
 install:
   - sh: "chmod +x ./qualiti-script.sh"
   - sh: "./qualiti-script.sh"
+build: off
