@@ -1,5 +1,5 @@
 version: 1.0.{build}
 image: Ubuntu
-init:
+install:
   - sh: "chmod +x ./qualiti-script.sh"
   - sh: "./qualiti-script.sh"
