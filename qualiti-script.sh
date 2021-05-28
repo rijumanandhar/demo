@@ -9,7 +9,7 @@ CLIENT_ID='a7d8412bfe5d40a69b9be22fc38b309a'
 SCOPES=['"ViewTestResults"','"ViewAutomationHistory"']
 API_URL='https://7iggpnqgq9.execute-api.us-east-2.amazonaws.com/udbodh/api'
 INTEGRATION_JWT_TOKEN='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcm9qZWN0X2lkIjozMzMsImFwaV9rZXlfaWQiOjQ4MjIsIm5hbWUiOiIiLCJkZXNjcmlwdGlvbiI6IiIsImljb24iOiIiLCJpbnRlZ3JhdGlvbl9uYW1lIjoiZ2l0bGFiIiwib3B0aW9ucyI6e30sImlhdCI6MTYyMTI0Mjg5Mn0.ZE9D7MxlCQV0LwpbJldKu7ZX_A7YFZzbdXQgD6v2e9A'
-INTEGRATIONS_API_URL=' http://5343c6adf64c.ngrok.io'
+INTEGRATIONS_API_URL='http://5343c6adf64c.ngrok.io'
 
 #Trigger test run
 TEST_RUN_ID="$( \
