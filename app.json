@@ -1,4 +1,12 @@
 {
+   "buildpacks": [
+      {
+        "url": "https://github.com/barsoom/heroku-buildpack-shell-tools.git"
+      },
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+      }
+    ],
   "environments": {
     "test": {
       "scripts": {
